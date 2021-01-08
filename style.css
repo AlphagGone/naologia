@@ -1,0 +1,21 @@
+h1
+{
+    color: rgb(238, 81, 107);
+}
+
+body
+{
+    background-color: salmon;
+}
+#center
+{
+    width: 800px;
+    margin:0 auto;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    align-content:center;
+}
+ul li
+{
+    list-style-type: none;
+}
